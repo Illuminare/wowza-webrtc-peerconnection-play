@@ -1,0 +1,24 @@
+{
+  "name": "@illuminare/wowza-webrtc-peerconnection-play",
+  "version": "0.1.0",
+  "description": "implementation of Wowza peer connection play for webrtc playback",
+  "main": "PeerConnectionPlay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Illuminare/wowza-webrtc-peerconnection-play.git"
+  },
+  "keywords": [
+    "wowza",
+    "webrtc",
+    "player"
+  ],
+  "author": "Illuminare",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Illuminare/wowza-webrtc-peerconnection-play/issues"
+  },
+  "homepage": "https://github.com/Illuminare/wowza-webrtc-peerconnection-play#readme"
+}
